@@ -32,7 +32,7 @@ body {
 .bgimg{
     background-image: url(pexels-aleksandar-pasaric-325185.jpg);
     background-repeat: no-repeat;
-    background-attachment: relative;
+    background-attachment: fixed;
     background-size: 100% 1500px;
     background-position: center;
 }
